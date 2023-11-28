@@ -5,4 +5,4 @@
 | p2| The goal of this assignment is to gain familiarity with SQL.|
 | p3| The goal of this assignment is to gain familiarity with the apriori algorithm.|
 | p4| The goal of this assignment is to gain familiarity with Graph Databases in general, and with Neo4j and, its query language, Cypher, in particular.|
-| term| The goal of this project is to gain eposure to a real data science problem, looking at the end-to-end pipeline.
+| term| The goal of this project is to gain exposure to a real data science problem, looking at the end-to-end pipeline.
